@@ -1,4 +1,4 @@
-let addTwoNumber = require("./second.js");
+let addTwoNumber = require("./second");
 
 let sum = addTwoNumber(10, 20);
 
