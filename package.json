@@ -1,0 +1,25 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sayhi": "echo 'Hello there'",
+    "auto": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasminaTurku/Learning-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasminaTurku/Learning-NodeJS/issues"
+  },
+  "homepage": "https://github.com/JasminaTurku/Learning-NodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
